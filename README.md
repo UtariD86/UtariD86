@@ -1,1 +1,1 @@
-![Project Logo](docs/images/vectorpaint.svg)
+![Project Logo](vectorpaint.svg)
