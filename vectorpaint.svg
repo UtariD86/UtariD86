@@ -1,15 +1,267 @@
-<svg width="100%" height="100%" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="100%" viewBox="0 0 200 400" xmlns="http://www.w3.org/2000/svg">
+	<!-- Navbar -->
     <rect x="2" y="2" width="196" height="8" 
           fill="blue" stroke="#D3D3D3" stroke-width="1"/>
-           <image x="4" y="3" href="https://developer.valvesoftware.com/w/images/7/71/Icon-CMD.png" height="6">C:/</image>
-          <text x="13" y="8" font-family="Consolas" font-size="5" fill="white">Command Prompt</text>
-    <rect x="191" y="3" height="6" width="6" fill="#9f9f9e" />
-     <text x="192" y="8" font-family="Iceland" font-size="7" fill="black">x</text>
-    <rect x="184" y="3" height="6" width="6" fill="#9f9f9e" />
-         <text x="185" y="8" font-family="Iceland" font-size="5" fill="black">◻</text>
-    <rect x="177" y="3" height="6" width="6" fill="#9f9f9e" />
-             <text x="178" y="6" font-family="Iceland" font-size="5" fill="black">_</text>
-    <rect x="2" y="10" width="196" height="196" 
+		  
+			<!-- Icon -->
+            <rect x="5" y="4" height="4" width="5" fill="black" />
+			<text x="6" y="7" font-family="Consolas" font-size="2" fill="white">C:/</text>
+		 
+			<!-- Window Text -->
+			<text x="13" y="8" font-family="MS Sans Serif" font-size="5" fill="white">Command Prompt</text>
+		  
+			<!-- Close -->
+			<rect x="191" y="3" height="6" width="6" fill="#9f9f9e" />
+			<text x="192" y="8" font-family="Iceland" font-size="7" fill="black">x</text>
+    
+			<!-- Maximize -->
+			<rect x="184" y="3" height="6" width="6" fill="#9f9f9e" />
+			<text x="185" y="8" font-family="Iceland" font-size="5" fill="black">◻</text>
+    
+			<!-- Minimize -->
+			<rect x="177" y="3" height="6" width="6" fill="#9f9f9e" />
+			<text x="179" y="6" font-family="Iceland" font-size="5" fill="black">_</text>
+    
+	
+	<!-- Window -->
+	<rect x="2" y="10" width="196" height="380" 
           fill="black" stroke="#D3D3D3" stroke-width="1"/>
-</svg>
+		  
+		  <!-- Window Content -->
+		  <text x="5" y="20" font-family="Consolas" font-size="4" fill="white">
+			<tspan fill="#FEC260">Full-Stack Web Developer</tspan> at <tspan fill="#4ed2e0">zurafworks*</tspan>
+		  </text>
+		  
+		  <text x="5" y="25" font-family="Consolas" font-size="4" fill="white">
+			Working with <tspan fill="#E96479">.Net</tspan> 2022-Today
+		  </text>
+		  
+		  <text x="5" y="35" font-family="Consolas" font-size="4" fill="white">
+			C:\Users\UtariD86> cat <tspan fill="#4ed2e0">bio.txt</tspan>
+		  </text>
+		  
+		  <text x="5" y="40" font-family="Consolas" font-size="4" fill="white">
+			<tspan fill="#FEC260">
+			I've been developing myself as a Full-Stack Web Developer for about three years. 
+			</tspan>
+		  </text>
+		  
+		  <text x="5" y="45" font-family="Consolas" font-size="4" fill="white">
+			<tspan fill="#FEC260">
+			During this time, I have worked on freelance and hobby projects. In the last two years,
+			</tspan>
+		  </text>
 
+		  <text x="5" y="50" font-family="Consolas" font-size="4" fill="white">
+			<tspan fill="#FEC260">
+			 I completed a 1.5-year internship at a Technopark company.
+			</tspan>
+		  </text>
+
+		  <text x="5" y="60" font-family="Consolas" font-size="4" fill="white">
+			<tspan fill="#FEC260">
+			 After that, I completed my official internship at a company within Innopark 
+			</tspan>
+		  </text>
+
+		  <text x="5" y="65" font-family="Consolas" font-size="4" fill="white">
+			<tspan fill="#FEC260">
+			 and later took on a part-time role at another Technopark company, 
+			</tspan>
+		  </text>
+
+		  <text x="5" y="70" font-family="Consolas" font-size="4" fill="white">
+			<tspan fill="#FEC260">
+			 working on an SSO-based application designed for a project family. 
+			</tspan>
+		  </text>
+
+
+		  <text x="5" y="75" font-family="Consolas" font-size="4" fill="white">
+			<tspan fill="#FEC260">
+			 Nowadays, we are actively developing our own projects at "zurafworks".
+			</tspan>
+		  </text>
+		  
+		<text x="5" y="85" font-family="Consolas" font-size="4" fill="white">
+			C:\Users\UtariD86> ls <tspan fill="#4ed2e0">skills</tspan>
+		</text>
+		
+		<!-- Backend -->
+    <text x="5" y="90" font-family="Consolas" font-size="4" xml:space="preserve">
+<tspan fill="#4ec9b0">ASP.Net Core API</tspan>
+		<tspan fill="#569cd6">MVC</tspan>
+											<tspan fill="#9cdcfe">Entity Framework</tspan>
+	<tspan fill="#dcdcaa">SQL</tspan>   
+    </text>
+
+    <!-- Frontend -->
+    <text x="5" y="95" font-family="Consolas" font-size="4" xml:space="preserve">
+<tspan fill="#d7ba7d">JavaScript</tspan>
+								<tspan fill="#ce9178">jQuery</tspan>
+								<tspan fill="#4ec9b0">HTML5/CSS</tspan>
+								<tspan fill="#dcdcaa">Bootstrap</tspan>   
+    </text>
+	
+		<text x="5" y="105" font-family="Consolas" font-size="4" fill="white">
+			C:\Users\UtariD86> cat <tspan fill="#4ed2e0">zurafworks.txt</tspan>
+		</text>
+<text x="5" y="110" font-family="Consolas" font-size="4" fill="white" xml:space="preserve">
+                                               ████                                    
+</text>
+<text x="5" y="115" font-family="Consolas" font-size="4" fill="white" xml:space="preserve">
+                                             ███████                                   
+</text>
+<text x="5" y="120" font-family="Consolas" font-size="4" fill="white" xml:space="preserve">
+ █████                                       ████████                                  
+</text>
+<text x="5" y="125" font-family="Consolas" font-size="4" fill="white" xml:space="preserve">
+███████                                        █████████                               
+</text>
+<text x="5" y="130" font-family="Consolas" font-size="4" fill="white" xml:space="preserve">
+███████                                       ██       ███                             
+</text>
+<text x="5" y="135" font-family="Consolas" font-size="4" fill="white" xml:space="preserve">
+  █████                                      ██           ███████                      
+</text>
+<text x="5" y="140" font-family="Consolas" font-size="4" fill="white" xml:space="preserve">
+      ██                                    ██             ███████████                 
+</text>
+<text x="5" y="145" font-family="Consolas" font-size="4" fill="white" xml:space="preserve">
+       ███                                 ███             ██████   ███████████████████
+</text>
+<text x="5" y="150" font-family="Consolas" font-size="4" fill="white" xml:space="preserve">
+         ██                                ██                                 █████████
+</text>
+<text x="5" y="155" font-family="Consolas" font-size="4" fill="white" xml:space="preserve">
+          ███                             ██                                    ███████
+</text>
+<text x="5" y="160" font-family="Consolas" font-size="4" fill="white" xml:space="preserve">
+           ███                           ███                                           
+</text>
+<text x="5" y="165" font-family="Consolas" font-size="4" fill="white" xml:space="preserve">
+             ██                          ██                                            
+</text>
+<text x="5" y="170" font-family="Consolas" font-size="4" fill="white" xml:space="preserve">
+              █████                  ██████                                            
+</text>
+<text x="5" y="175" font-family="Consolas" font-size="4" fill="white" xml:space="preserve">
+              ███████    ██████████████████                                            
+</text>
+<text x="5" y="180" font-family="Consolas" font-size="4" fill="white" xml:space="preserve">
+              ██████████████         ██████                                            
+</text>
+<text x="5" y="185" font-family="Consolas" font-size="4" fill="white" xml:space="preserve">
+               █████                     ███                                           
+</text>
+<text x="5" y="190" font-family="Consolas" font-size="4" fill="white" xml:space="preserve">
+                                           ██                                          
+</text>
+<text x="5" y="195" font-family="Consolas" font-size="4" fill="white" xml:space="preserve">
+                                            ██                                         
+</text>
+<text x="5" y="200" font-family="Consolas" font-size="4" fill="white" xml:space="preserve">
+                                             ███                                        
+</text>
+<text x="5" y="205" font-family="Consolas" font-size="4" fill="white" xml:space="preserve">
+                                              ███                                      
+</text>
+<text x="5" y="210" font-family="Consolas" font-size="4" fill="white" xml:space="preserve">
+                                               ██████                                  
+</text>
+<text x="5" y="215" font-family="Consolas" font-size="4" fill="white" xml:space="preserve">
+                                               ███████                                 
+</text>
+<text x="5" y="220" font-family="Consolas" font-size="4" fill="white" xml:space="preserve">
+                                               ██████                                  
+</text>
+<text x="5" y="225" font-family="Consolas" font-size="4" fill="white" xml:space="preserve">
+                                                 ██████                                
+</text>
+<text x="5" y="230" font-family="Consolas" font-size="4" fill="white" xml:space="preserve">
+                                                      ██                               
+</text>
+<text x="5" y="235" font-family="Consolas" font-size="4" fill="white" xml:space="preserve">
+                                                       ███                             
+</text>
+<text x="5" y="240" font-family="Consolas" font-size="4" fill="white" xml:space="preserve">
+                                                         ███                           
+</text>
+<text x="5" y="245" font-family="Consolas" font-size="4" fill="white" xml:space="preserve">
+                                                           ██                          
+</text>
+<text x="5" y="250" font-family="Consolas" font-size="4" fill="white" xml:space="preserve">
+                                                            ███ ██                     
+</text>
+<text x="5" y="255" font-family="Consolas" font-size="4" fill="white" xml:space="preserve">
+                                                              ███████                  
+</text>
+<text x="5" y="260" font-family="Consolas" font-size="4" fill="white" xml:space="preserve">
+                                                              ███████                  
+</text>
+<text x="5" y="265" font-family="Consolas" font-size="4" fill="white" xml:space="preserve">
+                                                              ██████                   
+</text>
+<text x="5" y="270" font-family="Consolas" font-size="4" fill="white" xml:space="preserve">
+                                                                                       
+</text>
+<text x="5" y="275" font-family="Consolas" font-size="4" fill="white" xml:space="preserve">
+                                                                                       
+</text>
+<text x="5" y="280" font-family="Consolas" font-size="4" fill="white" xml:space="preserve">
+                                                                                       
+</text>
+<text x="5" y="285" font-family="Consolas" font-size="4" fill="white" xml:space="preserve">
+                                                                                       
+</text>
+<text x="5" y="290" font-family="Consolas" font-size="4" fill="white" xml:space="preserve">
+                                                                                       
+</text>
+<text x="5" y="295" font-family="Consolas" font-size="4" fill="white" xml:space="preserve">
+                                                                               ████████
+</text>
+<text x="5" y="300" font-family="Consolas" font-size="4" fill="white" xml:space="preserve">
+                                                                              ███      
+</text>
+<text x="5" y="305" font-family="Consolas" font-size="4" fill="white" xml:space="preserve">
+                                                                              ███      
+</text>
+<text x="5" y="310" font-family="Consolas" font-size="4" fill="white" xml:space="preserve">
+███████████████   ███        ███       ███  ██████       ██████████       ███████████  
+</text>
+<text x="5" y="315" font-family="Consolas" font-size="4" fill="white" xml:space="preserve">
+ ████████████     ███        ███       █████████████             ███       █████████   
+</text>
+<text x="5" y="320" font-family="Consolas" font-size="4" fill="white" xml:space="preserve">
+        ████      ███        ███        ████     ███              ███         ███      
+</text>
+<text x="5" y="325" font-family="Consolas" font-size="4" fill="white" xml:space="preserve">
+       ███        ███        ███        ███               ███████████         ███      
+</text>
+<text x="5" y="330" font-family="Consolas" font-size="4" fill="white" xml:space="preserve">
+     ████         ███        ███        ███             █████████████         ███      
+</text>
+<text x="5" y="335" font-family="Consolas" font-size="4" fill="white" xml:space="preserve">
+    ███           ███        ███        ███            ███        ███         ███      
+</text>
+<text x="5" y="340" font-family="Consolas" font-size="4" fill="white" xml:space="preserve">
+  ████            ████      ████        ███            ████       ███         ███      
+</text>
+<text x="5" y="345" font-family="Consolas" font-size="4" fill="white" xml:space="preserve">
+ ██████████████     ██████████████      ███              ██████████████       ███      
+</text>
+
+		<text x="5" y="355" font-family="Consolas" font-size="4" fill="white">
+			C:\Users\UtariD86> curl <tspan fill="#4ed2e0">website</tspan>
+		</text>
+		<text x="5" y="360" font-family="Consolas" font-size="4" fill="white">
+			<tspan fill="#4ed2e0">zurafworks.com</tspan>
+		</text>
+
+	<text x="5" y="370" font-family="Consolas" font-size="4" fill="white">
+			C:\Users\UtariD86> curl <tspan fill="#4ed2e0">project</tspan>
+		</text>
+		<text x="5" y="375" font-family="Consolas" font-size="4" fill="white">
+			<tspan fill="#c23450">volleytics.com</tspan>
+		</text>
+</svg>
